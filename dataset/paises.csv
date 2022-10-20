@@ -1,0 +1,34 @@
+Id_pais,ISO,País,Continente
+1,ESP,España,Europa
+2,ITA,Italia,Europa
+3,DEU,Alemania,Europa
+4,BEL,Bélgica,Europa
+5,FRA,Francia,Europa
+6,NLD,Países Bajos,Europa
+7,CHE,Suiza,Europa
+8,RUS,Rusia,Europa
+9,UKR,Ucrania,Europa
+10,GBR,Reino Unido,Europa
+11,AGO,Angola,África
+12,CMR,Camerún,África
+13,ZAF,Sudáfrica,África
+14,NGA,Nigeria,África
+15,ETH,Etiopía,África
+16,EGY,Egipto,África
+17,MEX,México,América
+18,PAN,Panamá,América
+19,CAN,Canadá,América
+20,USA,Estados Unidos de América,América
+21,ARG,Argentina,América
+22,BRA,Brasil,América
+23,COL,Colombia,América
+24,ECU,Ecuador,América
+25,URY,Uruguay,América
+26,VEN,Venezuela,América
+27,CHL,Chile,América
+28,AFG,Afganistán,Asia
+29,IND,India,Asia
+30,KOR,Corea del Sur,Asia
+31,JPN,Japón,Asia
+32,CHN,China,Asia
+33,MYS,Malasia,Asia
