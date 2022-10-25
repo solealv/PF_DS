@@ -6,12 +6,12 @@ from models import quienes_somos, eje_salud, eje_economico, eje_edu_ambiente, ej
 
 app = MultiApp()
 
-app.add_app("Quienes somos", quienes_somos.app)
+app.add_app("Quiénes somos", quienes_somos.app)
 app.add_app("Eje salud", eje_salud.app)
-app.add_app("Eje economico", eje_economico.app)
-app.add_app("Eje eucacion y ambiente", eje_edu_ambiente.app)
-app.add_app("Eje politico", eje_politico.app)
-app.add_app("Vision global", vision_global.app)
+app.add_app("Eje económico", eje_economico.app)
+app.add_app("Eje educación y ambiente", eje_edu_ambiente.app)
+app.add_app("Eje político", eje_politico.app)
+app.add_app("Visión global", vision_global.app)
 
 
 app.run()

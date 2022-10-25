@@ -9,8 +9,12 @@ def app():
     dash2_container = st.container()
 
     with header_container:
-        #st.image('./images/calculator.jpg')
-        st.title('Ukuphila + Vida')
+        titulo, espacio, imagen = st.columns(3)
+        
+        titulo.title('Ukuphila + Vida')
+        espacio.write(' ')
+        imagen.image('./images/logo2.png', width= 180)
+        
         st.subheader('Significado mas alla de las fronteras')
         st.write('En zulú, la principal lengua materna de Sudáfrica, ukuphila significa vida. Por esta razón, la elegimos como nombre para nuestra ONG.')
         st.subheader('Buscamos datos y los transformamos en informacion.')
