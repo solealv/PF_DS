@@ -13,7 +13,7 @@ def app():
         
         titulo.title('Ukuphila + Vida')
         espacio.write(' ')
-        imagen.image('./images/logo2.png', width= 180)
+        imagen.image('./images/Logo2.png', width= 180)
         
         st.subheader('Significado mas alla de las fronteras')
         st.write('En zulú, la principal lengua materna de Sudáfrica, ukuphila significa vida. Por esta razón, la elegimos como nombre para nuestra ONG.')

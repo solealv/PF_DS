@@ -13,7 +13,7 @@ def app():
         
         titulo.title('Ukuphila + Vida')
         espacio.write(' ')
-        imagen.image('./images/logo2.png', width= 180)
+        imagen.image('./images/Logo2.png', width= 180)
         
     with dash1_container:
         st.subheader('Subtitulo 1')
